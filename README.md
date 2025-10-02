@@ -1,12 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lily 👋
 
-### 🎨 Front End Engineer & Creative Technologist
+**Front-end developer with a designer's sensibility. Available for work.**
 
-I'm a multidisciplinary developer with a diverse background in fine art, fashion, and graphic design, bringing my unique perspective to web development. I specialize in crafting pixel-perfect CMS sites, with a focus on WordPress.
+With a rich background in the arts, fashion, design, and programming, I bring a unique perspective to front-end development. I appreciate web projects for all of their complexities: as interactive works of digital art, technical challenges to solve elegantly, and systems to be easily maintained by clients for years to come. 
 
-- 👩‍💻 I'm currently working as a full-time contractor serving private clients and collaborating with agencies in a development role
-- 🌀 I'm expanding my skills in 3D technologies like WebGL to create more expressive digital experiences
-- 💗 My passion: Writing clean, maintainable code that functions seamlessly
-- 📫 Available for select collaborations, particularly at the art-tech intersection
+### What I do
+- 🤝 **Partner with agencies** as a front-end developer, building pixel-perfect websites and consulting on interactive functionality and web best practices
+- 🎨 **WordPress specialist:** Custom themes, ACF architectures, flexible component systems
+- ⚛️ **JavaScript ecosystem:** Mastering React, learning TypeScript
+- ✨ **Learning 3D for the web:** WebGL and Three.js for interactive experiences and creative coding projects (games are the dream!)
+- 🐍 **Python:** For automation and making my life easier
 
-When I'm not coding, you might find me watching old movies, playing Sudoku, or exploring interactive art installations for inspiration!
+**💼 Available for full-time and contract opportunities**
+
+### What I bring
+A designer's eye for aesthetics. A developer's commitment to clean, scalable code. Over ten years of  creative experience.
+
+### Ask me about
+WordPress workflows, Columbo, design systems, or my favorite fashion designers.
+
+📬 **Get in touch:** hello@halcyon-studios.com
