@@ -6,10 +6,9 @@ With a rich background in the arts, fashion, design, and programming, I bring a 
 
 ### What I do
 - 🤝 **Partner with agencies** as a front-end developer, building pixel-perfect websites and consulting on interactive functionality and web best practices
-- 🎨 **WordPress specialist:** Custom themes, ACF architectures, flexible component systems
+- 🎨 **WordPress specialist:** Custom themes, reusable React-based Gutenberg modules, ACF Pro, page builders
 - ⚛️ **JavaScript ecosystem:** Mastering React, learning TypeScript
 - ✨ **Learning 3D for the web:** WebGL and Three.js for interactive experiences and creative coding projects (games are the dream!)
-- 🐍 **Python:** For automation and making my life easier
 
 **💼 Available for full-time and contract opportunities**
 
