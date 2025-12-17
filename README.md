@@ -5,17 +5,19 @@
 I work at the intersection of design and engineering, translating visual intent into clean, production-ready interfaces and scalable front-end systems.
 
 ### What I do
-- 🤝 **Partner with agencies** as a front-end developer, building pixel-perfect websites and consulting on interactive functionality and web best practices
-- 🎨 **WordPress specialist:** Custom themes, reusable React-based Gutenberg modules, ACF Pro, CMS architecture with custom post types, AJAX filtering
-- ⚛️ **JavaScript ecosystem:** Mastering React, learning TypeScript
-- ✨ **Learning 3D for the web:** WebGL and Three.js for interactive experiences and creative coding projects (games are the dream!)
+- **Partner with agencies** as an individual contributor (lead developer) on web projects
+- **Implement pixel-perfect interfaces** and collaborate with designers on interactive functionality
+- **Architect and build complex CMS platforms** with custom themes, custom post types, reusable blocks, ACF Pro, AJAX filtering, API integration
+- **Utilize JavaScript ecosystem:** React, TypeScript/JavaScript, Next.js, Node.js
+- **Experiment with creative coding:** Learning WebGL / three.js for advanced web graphics, emulating vintage tech for fun, expanding skills in web animation
 
-**💼 Available for full-time and contract opportunities**
+**Available for select contract engagements**
 
 ### What I bring
-A designer's eye for aesthetics. A developer's commitment to clean, scalable code. Over ten years of  creative experience.
+A designer's eye for aesthetics and pixel-perfect implementation. A developer's commitment to clean, maintainable code. 
 
 ### Ask me about
-WordPress workflows, Columbo, design systems, or my favorite fashion designers.
+My latest personal projects, murder mysteries, or my favorite fashion designers.
 
-📬 **Get in touch:** hello@halcyon-studios.com
+**Get in touch:** 
+hello@halcyon-studios.com
