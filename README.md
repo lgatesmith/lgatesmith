@@ -1,8 +1,8 @@
 # Hi, I'm Lily 👋
 
-**Front-end developer with a designer's sensibility. Available for work.**
+**Front-end–focused engineer with nearly a decade of experience building, shipping, and maintaining real-world web projects.**
 
-With a rich background in the arts, fashion, design, and programming, I bring a unique perspective to front-end development. I appreciate web projects for all of their complexities: as interactive works of digital art, technical challenges to solve elegantly, and systems to be easily maintained by clients after handoff. 
+I work at the intersection of design and engineering, translating visual intent into clean, production-ready interfaces and scalable front-end systems.
 
 ### What I do
 - 🤝 **Partner with agencies** as a front-end developer, building pixel-perfect websites and consulting on interactive functionality and web best practices
