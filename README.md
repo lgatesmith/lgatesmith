@@ -2,7 +2,7 @@
 
 Front-end–focused engineer with nearly a decade of experience building, shipping, and maintaining real-world web projects.
 
-I work at the intersection of design and engineering, translating visual intent into clean, production-ready interfaces and scalable front-end systems.
+I work at the intersection of development and design, translating client requirements and user experience intent into clean, production-ready interfaces and scalable front-end systems.
 
 ---
 
