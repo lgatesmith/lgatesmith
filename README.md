@@ -2,7 +2,7 @@
 
 Front-end–focused engineer with nearly a decade of experience building, shipping, and maintaining real-world web projects.
 
-I work at the intersection of development and design, translating client requirements and user experience intent into clean, production-ready interfaces and scalable front-end systems.
+With deep experience in the visual design and art world, I bring a keen eye for design to my work as an engineer and developer. 
 
 ---
 
@@ -20,7 +20,7 @@ A designer’s eye for aesthetics and detail, paired with a developer’s focus 
 
 ---
 
-**Available for select contract engagements**
+**Available for select contract engagements and full-time work. Willing to relocate.**
 
 ---
 
