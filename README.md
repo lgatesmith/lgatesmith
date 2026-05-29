@@ -1,8 +1,4 @@
-Here's the revised full README:
-
----
-
-# Hi, I'm Lily 👋
+# Hi, I'm Lily
 Front-end–focused engineer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the visual design and art world, I bring a keen eye for design to my work as an engineer and developer.
 
 ---
