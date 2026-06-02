@@ -1,5 +1,5 @@
 # Hi, I'm Lily
-Front-end–focused engineer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the visual design and art world, I bring a keen eye for design to my work as an engineer and developer.
+Front-end–focused developer and software engineer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the visual design and art world, I bring a keen eye for design to my work as an engineer and developer.
 
 ---
 
