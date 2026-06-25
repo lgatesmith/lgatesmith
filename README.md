@@ -1,31 +1,18 @@
 # Hi, I'm Lily
-Front-end–focused developer and software engineer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the visual design and art world, I bring a keen eye for design to my work as an engineer and developer.
-
----
+Software engineer / full-stack developer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the design and art world, I bring a keen eye for aesthetics and the user experience to my work.
 
 ## Currently
-Contributing as a full-stack founding team member at an early-stage music platform startup — managing UI/UX, front-end architecture, and Firebase infrastructure while the product grows toward launch.
-
----
+Contributing as a full-stack founding team member at an early-stage music platform startup — leading UI/UX, front-end architecture, Firebase/Firestore infrastructure, Cloud Functions, and API integration across a growing product. Open to full-time work and willing to relocate to NYC. Accepting select contract engagements.
 
 ## What I do
-- Build modern full-stack web applications using **React, Vue, TypeScript/JavaScript, Next.js, and Node**
+- Build modern full-stack web applications using **React, Vue, TypeScript/JavaScript, Next.js, and Node.js**
 - Implement pixel-perfect, intentional interfaces from existing mockups, collaborating with designers in team settings
 - Design interfaces from wireframes to interactive prototypes and reusable components in Figma
-- Architect and build CMS-driven platforms (WordPress and headless CMS; custom themes, custom Gutenberg blocks, custom post types, ACF Pro, resource libraries with AJAX filtering, API integrations)
+- Architect and build CMS-driven platforms: WordPress and headless CMS (Sanity); custom themes, custom Gutenberg blocks, custom post types, ACF Pro, resource libraries with AJAX filtering, API integrations
+- Work across the data layer — PostgreSQL, MySQL, Firestore — and integrate REST and GraphQL APIs, webhooks, and OAuth flows
+- Manage infrastructure and deployments: Docker, GitHub Actions CI/CD, Vercel, AWS, DNS/SSL configuration
 - Maintain and operate 12+ production sites across a range of industries and CMS platforms, managing client relationships end-to-end
-- Explore creative coding in my free time — WebGL / three.js, modern web animation, and interaction design
-
----
-
-## What I bring
-A designer's eye for aesthetics and detail, paired with a developer's focus on clarity, maintainability, and long-term ownership.
-
----
-
-**Accepting *select* new private client engagements. Open to full-time work and willing to relocate to NYC.**
-
----
+- Explore creative coding in my free time — WebGL, three.js, AI-assisted development
 
 ## Ask me about
 Recent personal projects, murder mysteries, or my favorite fashion designers.
