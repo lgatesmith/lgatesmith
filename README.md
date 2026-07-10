@@ -1,8 +1,8 @@
 # Hi, I'm Lily
-Software engineer / full-stack developer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the design and art world, I bring a keen eye for aesthetics and the user experience to my work.
+Software engineer / full-stack developer with 10+ years of experience building, shipping, and maintaining real-world web projects. With deep experience in the art and design world, I bring a sharp eye for aesthetics and an intuitive sensibility for the user experience.
 
 ## Currently
-Contributing as a full-stack founding team member at an early-stage music platform startup — leading UI/UX, front-end architecture, Firebase/Firestore infrastructure, Cloud Functions, and API integration across a growing product. Open to full-time work and willing to relocate to NYC. Accepting select contract engagements.
+Contributing as a full-stack founding team member at RayRok, an early-stage music platform startup — leading UI/UX, front-end architecture, Firebase/Firestore infrastructure, Cloud Functions, and API integration across a growing product. Open to full-time work and select contract engagements. Accepting remote work or in-person work in NYC.
 
 ## What I do
 - Build modern full-stack web applications using **React, Vue, TypeScript/JavaScript, Next.js, and Node.js**
